@@ -4,6 +4,9 @@ This repository contains a Jupyter Notebook that analyzes global poverty and inc
 
 The dataset contains information on the [Gini coefficient](#About-the-Gini-Coefficient) and poverty levels for countries across the globe. This data is based on the 2017 purchasing power parity (PPP) version of the dataset.
 
+###[See this project live on Google Collab](https://drive.google.com/file/d/1Dp-e4a5oxXDaKFuXd4s073-0PXZOm9se/view?usp=sharing
+)
+
 ## Table of Contents
 
 - [Project Structure and Installation](#setup-and-installation)
