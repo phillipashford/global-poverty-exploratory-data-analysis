@@ -31,7 +31,7 @@ Clone this repository to your local machine using the command:
 
     bash
     
-    git clone https://github.com/yourusername/global-poverty-inequality-analysis.git
+    git clone https://github.com/phillipashford/global-poverty-inequality-analysis.git
 
 Install Python 3.7+ if you haven't already. You can download it from the official Python website.
 
